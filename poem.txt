@@ -4,6 +4,8 @@ Black
 Blue
 Brown
 Dark Brown and Blue
+Indigo
+red and black 
 Green
 Grey
 GreenGrey
