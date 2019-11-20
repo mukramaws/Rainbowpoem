@@ -1,0 +1,13 @@
+The Rainbow
+
+Black
+Blue
+Brown
+
+Green
+Grey
+GreenGrey
+GreenLight
+GreenDark
+
+These are the colors.
